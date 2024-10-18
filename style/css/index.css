@@ -1,0 +1,20 @@
+header{
+    background-color: #1C66A6;
+
+}
+
+main, body{
+    background-color: #162C40;
+}
+
+footer{
+    background-color: #224459;
+}
+.titlePrincipal{
+    text-align: center;
+    font-size: 60px;
+    font-family: fantasy;
+}
+.imgIA{
+    width: 550px;
+}
